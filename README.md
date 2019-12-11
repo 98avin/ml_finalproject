@@ -1,6 +1,7 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+before running the notebook, download the following files:
+
+### text_data folder
+#### text_data/cleansed_listings_dec18.csv
+`https://www.kaggle.com/tylerx/melbourne-airbnb-open-data#cleansed_listings_dec18.csv`
+#### text_data/reviews_dec18.csv
+`https://www.kaggle.com/tylerx/melbourne-airbnb-open-data#reviews_dec18.csv`
